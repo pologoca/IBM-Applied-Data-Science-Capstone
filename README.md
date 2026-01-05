@@ -7,7 +7,7 @@ SpaceX is the most successful company of the commercial space age, making space 
 •	Does the rate of successful landings increase with the number of launches?
 •	What is the best model to predict the first stage landin?
 
-## The project is structured into consecutive modules designed to build a predictive model.
+## Modules
 ### 1. SpaceX data collection
 •	Request to the SpaceX API to gather historical launch data.
 ### 2. Web Scraping Falcon 9 Launch Records
