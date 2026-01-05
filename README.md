@@ -4,7 +4,9 @@ This Capstone is the 10th (final) course in IBM Data Science Professional Certif
 SpaceX is the most successful company of the commercial space age, making space travel affordable, with a cost of 62 million dollars, compared to other providers' costs upwards of 165 million dollars. This saving is because SpaceX's reuses the first stage of the rocket. The project’s goal is to predict the successful landing of the Falcon 9 first stage to better estimate the launch costs.
 ## Questions
 •	How do variables such as pay load mass, launch site, number of flights, and orbits affect the success of the first stage landing?
+
 •	Does the rate of successful landings increase with the number of launches?
+
 •	What is the best model to predict the first stage landin?
 
 ## Modules
